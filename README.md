@@ -19,3 +19,8 @@ Link: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities/resource/fbb5
 Download Link: https://data.wprdc.org/datastore/dump/fbb50b02-2879-47cd-abea-ae697ec05170
 
 Description: This data set contains the information on recreation facilities in Pittsburgh neighborhoods. It also specifies whether the facilities are rentable, active, and the facility type. 
+
+
+### Abstract:
+
+This project seeks to find the "best" neighborhood in Pittsburgh. To do this I used three metrics that I believe to be key in determining how good a neighborhood is. The most important thing in this day and age is Covid-19. I used a data set that gave the covid-19 numbers for each neighborhood, a data set that used the crime numbers for each neighborhood, and a data set that used the recreation facility numbers for each neighborhood. I then took these numbers and looked for the neighborhood that consistently ranked among the best in each of these metrics and determined this to be the "best" neighborhood.
